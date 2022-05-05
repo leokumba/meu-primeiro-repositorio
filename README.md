@@ -1,2 +1,2 @@
-# meu-primeiro-repositorio
-Meu primeiro repositório no GitHub
+# Meu primeiro repositório 
+Organização dos treinos da semana
